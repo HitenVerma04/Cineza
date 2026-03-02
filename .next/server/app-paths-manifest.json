@@ -1,0 +1,9 @@
+{
+  "/chat/page": "app/chat/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/chat/global/route": "app/api/chat/global/route.js",
+  "/social/page": "app/social/page.js",
+  "/movie/[id]/page": "app/movie/[id]/page.js",
+  "/api/watchlist/[movieId]/route": "app/api/watchlist/[movieId]/route.js",
+  "/page": "app/page.js"
+}
